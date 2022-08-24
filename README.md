@@ -8,8 +8,10 @@ Dataset Link: https://drive.google.com/file/d/1lQhfAuCUDsTdWaB4QO4DA-iYY23dnmMe/
 
 
 Articles about dataset
+
 Application with deep learning models for COVID-19 diagnosis
 Year 2022, Volume 5, Issue 2, 169 - 180, 31.08.2022
 Fuat TÜRK Yunus KÖKVER
 https://doi.org/10.35377/saucis...1085625
+
 Direct link : http://saucis.sakarya.edu.tr/en/pub/issue/72246/1085625

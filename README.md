@@ -1,6 +1,8 @@
 # covid19-pneumonia-dataset
 
-This data set was created in order to use the images available in the literature in a balanced way. Its use is open to the public. However, you are kindly requested to refer to the relevant article.
+This data set was created in order to use the images available in the literature in a balanced way. 
+The resources used during the creation of the dataset are included in the relevant article. 
+Its use is open to the public. However, you are kindly requested to refer to the relevant article.
 All rights in this regard are reserved by me.
 
 Dataset Link: https://drive.google.com/file/d/1lQhfAuCUDsTdWaB4QO4DA-iYY23dnmMe/view?usp=sharing
